@@ -40,6 +40,7 @@ REST APIの使用制限は
     * GASの制限にも抵触する場合があります。
       https://developers.google.com/apps-script/guides/services/quotas
     * エラー通知設定→お好みで
+7. 一度6.まで実行すれば(エラー等が出ない限り)再実行の必要はない
 
 ## 問い合わせ
 [Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLScVIvjqleax3_knxYJp63SmWvoxuhZ9rp308qFg9xV-HWwFKg/viewform?usp=sf_link)
