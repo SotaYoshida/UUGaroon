@@ -10,7 +10,7 @@ Google Apps Script (GAS)を用いて、GaroonからGoogleカレンダーに同�
 手元のPCで24時間スクリプトを常駐させておく、といった手間は必要はない
 
 ## 使用方法
-[動画(音声なし)へのリンクはこちら](https://www.youtube.com/watch?v=jitF2p7Y9mY)
+[動画(音声なし)へのリンクはこちら(Youtubeが開きます)](https://www.youtube.com/watch?v=jitF2p7Y9mY)
 
 1. 同期先のGmailアカウントにログインする  
 2. 共有ファイル(Googleスプレッドシート)にアクセスし、コピーを作成する
