@@ -16,7 +16,7 @@ REST APIの使用制限は
 [動画(音声なし)へのリンクはこちら(Youtubeが開きます)](https://www.youtube.com/watch?v=jitF2p7Y9mY)
 
 1. 同期先のGmailアカウントにログインする  
-2. 共有ファイル(Googleスプレッドシート)にアクセスし、コピーを作成する
+2. 共有ファイル([Googleスプレッドシート](https://docs.google.com/spreadsheets/d/13tcD9HkP4nxWE6hjLcsEDYejW7Ym2Z-Idd6UZ7mfj40/edit?usp=sharing))にアクセスし、コピーを作成する
 3. スプレッドシートの[ツール]から[スクリプトエディタ]を選択
     * スプレッドシートからスクリプトエディタを起動する際、デフォルトアカウントでないと、  
       *現在、ファイルを開くことができません。アドレスを確認して、もう一度試してください。*  
