@@ -45,6 +45,7 @@ REST APIの使用制限は
 [Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLScVIvjqleax3_knxYJp63SmWvoxuhZ9rp308qFg9xV-HWwFKg/viewform?usp=sf_link)
 * 学外からの問い合わせには対応しかねます
 * 原則、個別の対応ではなくQ&Aの公開といった対応とさせて頂きます
+* 逆(Googleカレンダー→Garoon)は作る気がありません
 
 ## 参考:  
  https://developer.cybozu.io/hc/ja/articles/360000577946-Garoon-REST-API-一覧  
