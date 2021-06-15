@@ -24,10 +24,12 @@ Google Apps Script (GAS)を用いて、GaroonからGoogleカレンダーに同�
     * カレンダー名を編集しない場合、"Garoon"というカレンダーが新規作成されるので、実行後にGoogleカレンダー側で同期(表示)の設定を行う
 5. メインコード.gsのsyncGaroonScheduleが選択された状態で実行する
 6. 4.5.がうまく行ったら、左側の時計マークから、[トリガーを追加]し、syncGaroonSchedule関数を一定の時間間隔で自動で実行するよう編集する
+    * [イベントのソースを選択]→時間主導型
     * [時間ベースのトリガーのタイプを選択]→時間ベースのタイマー
     * 時間の感覚を選択 →1時間
     * 分ベースで同期させることもできますが、ゆとりのある設定にしましょう。GASの制限にも抵触する場合があります。
       https://developers.google.com/apps-script/guides/services/quotas
+    * エラー通知設定→お好みで
 
 ## 参考:  
  https://developer.cybozu.io/hc/ja/articles/360000577946-Garoon-REST-API-一覧  
