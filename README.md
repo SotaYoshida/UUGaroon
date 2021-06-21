@@ -49,6 +49,9 @@ REST APIの使用制限は
 * 原則、個別の対応は行いません。Q&Aの公開といった対応とさせて頂きます
 * 逆(Googleカレンダー→Garoon)については、作成の予定はありません。
 
+## Q&A
+   * 「スクリプトエディタが起動できない」 → スプレッドシートの編集権限がないためです。必ずコピーを作成してください。
+
 ## 参考:  
  https://developer.cybozu.io/hc/ja/articles/360000577946-Garoon-REST-API-一覧  
  https://www.330k.info/essay/sync-garoon-google-calendar/  
