@@ -45,11 +45,6 @@ REST APIの使用制限は
     * エラー通知設定→お好みで
 7. 一度6.まで実行すれば(エラー等が出ない限り)再実行の必要はないはずです
 
-## 問い合わせ
-[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLScVIvjqleax3_knxYJp63SmWvoxuhZ9rp308qFg9xV-HWwFKg/viewform?usp=sf_link)
-* 学外からの問い合わせには対応しかねます
-* 原則、個別の対応は行いません。Q&Aの公開といった対応とさせて頂きます
-* 逆(Googleカレンダー→Garoon)については、作成の予定はありません。
 
 ## Q&A
    * 「スクリプトエディタが起動できない」 → スプレッドシートの編集権限がないためです。必ずコピーを作成してください。
